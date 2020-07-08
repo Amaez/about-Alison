@@ -12,19 +12,16 @@ h1{
     margin-left: 10px;
 
 }
-img {
 
+img{
     position: relative;
-    height: 350px;
     width: auto;
     padding-left: 47%;
-    padding-top: 10px;
+    height: 350px;
 }
 .contact {
-    width: 40%;
-    padding-left: 55%;
-    padding-top: 40px ;
-    font-size: 25px;
-    line-height: 30px
+
+}
+img {
 
 }
