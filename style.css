@@ -1,18 +1,30 @@
 body {
-    background-color: #b3b3c2;
+    background-color: #cdcdd0;
+}
+h1{
+    padding-left: 30%;
 }
 .textAll {
-    width: 600px;
+    width: 43%;
     font-size: 25px;
     line-height: 30px;
     position: absolute;
+    margin-left: 10px;
 
 }
 img {
+
     position: relative;
     height: 350px;
     width: auto;
-    padding-left: 620px;
-
+    padding-left: 47%;
+    padding-top: 10px;
+}
+.contact {
+    width: 40%;
+    padding-left: 55%;
+    padding-top: 40px ;
+    font-size: 25px;
+    line-height: 30px
 
 }
